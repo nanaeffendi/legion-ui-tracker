@@ -1,0 +1,54 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+  body {
+    color: white;
+    background: black;
+  }
+}
+
+.login--container {
+  margin: 0 auto;
+  position: relative;
+}
+
+.login--card {
+  width: 500px;
+  padding: 24px;
+  position: relative;
+  z-index: 9;
+}
+
+.login--container img {
+  position: absolute;
+  top: -209px;
+  left: -173px;
+}
+
+.logout-btn {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+}
+
+.report-page--wrapper {
+  padding: 0 48px;
+}

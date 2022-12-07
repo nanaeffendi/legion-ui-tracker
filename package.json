@@ -1,0 +1,21 @@
+{
+  "name": "legion-ui-tracker",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "05ab94bd828086d1": "https://api.observablehq.com/d/05ab94bd828086d1@212.tgz?v=3",
+    "@observablehq/runtime": "5",
+    "legion-ui": "^1.0.17",
+    "eslint": "8.29.0",
+    "eslint-config-next": "13.0.6",
+    "next": "13.0.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
