@@ -10,10 +10,11 @@
   },
   "dependencies": {
     "05ab94bd828086d1": "https://api.observablehq.com/d/05ab94bd828086d1@212.tgz?v=3",
+    "80a93ab569acf736": "https://api.observablehq.com/d/80a93ab569acf736.tgz?v=3",
     "@observablehq/runtime": "5",
-    "legion-ui": "^1.0.17",
     "eslint": "8.29.0",
     "eslint-config-next": "13.0.6",
+    "legion-ui": "^1.0.17",
     "next": "13.0.6",
     "react": "18.2.0",
     "react-dom": "18.2.0"
