@@ -6,6 +6,10 @@
   version "212.0.0"
   resolved "https://api.observablehq.com/d/05ab94bd828086d1@212.tgz?v=3#6e95c7b8528bab09a226b4d9ad1c11edcb724d4f"
 
+"80a93ab569acf736@https://api.observablehq.com/d/80a93ab569acf736.tgz?v=3":
+  version "217.0.0"
+  resolved "https://api.observablehq.com/d/80a93ab569acf736.tgz?v=3#a8b4302522f0793dc38b2c260cfc0ad16e2be866"
+
 "@babel/code-frame@^7.0.0":
   version "7.18.6"
   resolved "https://nexus.playcourt.id/repository/npm-group/@babel/code-frame/-/code-frame-7.18.6.tgz#3b25d38c89600baa2dcc219edfa88a74eb2c427a"
